@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Santos</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassilva01" alt="lucassilva01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassilva01" alt="lucca.dev_" /></a> </p>
 
 - 🔭 I’m currently working on [Focus Event](https://github.com/LucasSilva01/focus-event)
 
