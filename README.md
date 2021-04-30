@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucasSilva01"/></a> </p>
 
-- 🔭 I’m currently working on [Focus Event](https://github.com/LucasSilva01/focus-event2.0)
 
-- 🌱 I’m currently learning **React JS, Next JS and MongoDB**
 
 - 🤝 I’m looking for help with **Web developement**
 
